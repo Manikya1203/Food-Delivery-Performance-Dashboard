@@ -98,6 +98,7 @@ Custom tooltip pages provide additional KPI insights when hovering over visuals.
 # 👤 Author
 
 **Manikya Pasi**
+
 Aspiring Data Analyst passionate about **data visualization, business analytics, and storytelling with data.**
 
 ---
