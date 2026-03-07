@@ -74,7 +74,8 @@ Custom tooltip pages provide additional KPI insights when hovering over visuals.
 
 ---
 # 
-<img width="1192" height="792" alt="image" src="https://github.com/user-attachments/assets/606cf9a4-abca-487a-96ee-b7089770ceb2" />
+<img width="1327" height="748" alt="Food Delivery Performance " src="https://github.com/user-attachments/assets/05d197c8-5bf0-414c-b5a5-778df0b4662b" />
+
 
 
 ---
